@@ -11,7 +11,7 @@ Three CSV files of size 171 MB, each line has a city name and income of a person
 Three CSV files of size 691 KB, directed graph with the (positive) weighted edges. The graph is represented in an adjacency list format. In each line of the input file, the file entry is a node in the graph. The subsequent enteries in the line represent the edges and the edges lengths (weights). Each pair of values is essentially the end point of the directed edge and the lenght of the edge.
 
 ## Algorithm Implementation
-![](Readme_img/img2.png)
+![](Readme_img/img2.jpg)
 ### Twitter Connectivity Score 1
 Designing a method to give each user on **Twitter** a connectivity score, each user's score (N*M) will be simply calculated by multiplying the number of people the user is following (N-outbound links in graph representation) and the number of people that are following the user (M-inbound links in graph representation).
 
